@@ -2,6 +2,8 @@ library(tidyverse)
 library(sf)
 library(ggspatial)
 
+# data from https://gdz.bkg.bund.de/index.php/default/wms-verwaltungsgebiete-1-2-500-000-stand-31-12-wms-vg2500.html
+
 # germany <- read_sf("data/vg2500_12-31.utm32s.shape/vg2500/VG2500_LAN.shp")
 # 
 # germany <- germany %>%
