@@ -1,6 +1,5 @@
 library(tidyverse)
 library(sf)
-library(ggspatial)
 
 # data from https://gdz.bkg.bund.de/index.php/default/wms-verwaltungsgebiete-1-2-500-000-stand-31-12-wms-vg2500.html
 
